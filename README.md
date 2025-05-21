@@ -1,6 +1,6 @@
 🚀 Summer 2026 Tech Internships 🧑‍💻
 
-Welcome to the ultimate hub for Summer 2026 Tech Internship opportunities! MY repository is dedicated to helping students find their dream internships in the tech world. We're just getting started, and this list will grow, so keep checking back!
+Welcome to the ultimate hub for Summer 2026 Tech Internship opportunities! My repository is dedicated to helping students find their dream internships in the tech world. We're just getting started, and this list will grow, so keep checking back!
 ✨ What's Inside?
 
 A community-curated list of tech internships for Summer 2026. We aim to cover a wide range of roles, including:
