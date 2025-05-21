@@ -1,4 +1,4 @@
-🚀 Summer 2026 Tech Internships 🧑‍💻
+## 🚀 Summer 2026 Tech Internships 🧑‍💻
 
 Welcome to the ultimate hub for Summer 2026 Tech Internship opportunities! My repository is dedicated to helping students find their dream internships in the tech world. We're just getting started, and this list will grow, so keep checking back!
 ✨ What's Inside?
