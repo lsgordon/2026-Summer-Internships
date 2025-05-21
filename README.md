@@ -1,5 +1,30 @@
-# 2026-Summer-Internships
-**Tech Internships for Summer 2026. Submit using the issues tab under new issue, and I'll update later in the day.**
+🚀 Summer 2026 Tech Internships 🧑‍💻
+
+Welcome to the ultimate hub for Summer 2026 Tech Internship opportunities! MY repository is dedicated to helping students find their dream internships in the tech world. We're just getting started, and this list will grow, so keep checking back!
+✨ What's Inside?
+
+A community-curated list of tech internships for Summer 2026. We aim to cover a wide range of roles, including:
+
+    Software Engineering 💻
+    Data Science & Analytics 📊
+    Product Management 🚀
+    UX/UI Design 🎨
+    Cybersecurity 🛡️
+    And many more!
+
+📣 Important Update on Openings!
+
+Hold tight! ⏳ Many companies will start opening their Summer 2026 internship applications a bit later in Summer and early Fall 2025 (especially around August and September). Some will continue to open throughout the fall and even into early 2026.
+
+Got an internship to add? Awesome! 🙌 We highly encourage contributions to keep this list up-to-date and comprehensive.
+
+Please submit new internships or updates via the "Issues" tab:
+
+    Click on the Issues tab at the top of this repository.
+    Click the "New Issue" button.
+    Follow the format of the template and give all the required info
+
+Let's work together to make this the best resource for 2026 tech interns! 🌍
 | Company Name | Role | Location | Application Link | Date |
 | --- | --- | --- | --- | --- |
 | Salesforce | Software Engineering Intern | Multiple | [link](https://careers.salesforce.com/en/jobs/jr293195/summer-2026-intern-software-engineer/) | 2025-05-19 |
