@@ -1,27 +1,6 @@
 ## 🚀 Summer 2026 Tech Internships 🧑‍💻
 
-Welcome to the ultimate hub for Summer 2026 Tech Internship opportunities! My repository is dedicated to helping students find their dream internships in the tech world. We're just getting started, and this list will grow, so keep checking back!
-✨ What's Inside?
-
-A community-curated list of tech internships for Summer 2026. We aim to cover a wide range of roles, including:
-
-    Software Engineering, Software Developer, and Test Internships 💻
-    Data Science, Data Analytics & Data Engineering Internships 📊
-    Quant Research, Quant Developer, and Quant Trader Internships💹
-
-📣 Important Update on Openings!
-
-Hold tight! ⏳ Many companies will start opening their Summer 2026 internship applications a bit later in Summer and early Fall 2025 (especially around August and September). Some will continue to open throughout the fall and even into early 2026.
-
-Got an internship to add? Awesome! 🙌 We highly encourage contributions to keep this list up-to-date and comprehensive.
-
-Please submit new internships or updates via the "Issues" tab:
-
-    Click on the Issues tab at the top of this repository.
-    Click the "New Issue" button.
-    Follow the format of the template and give all the required info.
-
-Let's work together to make this the best resource for 2026 tech interns! 🌍
+Temporary repo while the new one comes up
 
 | Company Name | Role | Location | Application Link | Date |
 | --- | --- | --- | --- | --- |
