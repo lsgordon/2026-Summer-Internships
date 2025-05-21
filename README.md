@@ -7,10 +7,7 @@ A community-curated list of tech internships for Summer 2026. We aim to cover a 
 
     Software Engineering 💻
     Data Science & Analytics 📊
-    Product Management 🚀
-    UX/UI Design 🎨
-    Cybersecurity 🛡️
-    And many more!
+    Quant Research and Developer Roles 💹
 
 📣 Important Update on Openings!
 
@@ -22,7 +19,7 @@ Please submit new internships or updates via the "Issues" tab:
 
     Click on the Issues tab at the top of this repository.
     Click the "New Issue" button.
-    Follow the format of the template and give all the required info
+    Follow the format of the template and give all the required info.
 
 Let's work together to make this the best resource for 2026 tech interns! 🌍
 | Company Name | Role | Location | Application Link | Date |
