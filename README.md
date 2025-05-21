@@ -1,12 +1,6 @@
 🚀 Summer 2026 Tech Internships 🧑‍💻
 
-Welcome to the ultimate hub for Summer 2026 Tech Internship opportunities! MY repository is dedicated to helping students find their dream internships in the tech world. We're just getting started, and this list will grow, so keep checking back!
-
-Got an internship to add? Awesome! 🙌 We highly encourage contributions to keep this list up-to-date and comprehensive.
-
-Please submit new internships or updates via the "Issues" tab:
-
-Let's work together to make this the best resource for 2026 tech interns! 🌍
+Please submit new internships or updates via the "Issues" tab. Let's work together to make this the best resource for 2026 tech interns! 🌍
 | Company Name | Role | Location | Application Link | Date |
 | --- | --- | --- | --- | --- |
 | Salesforce | Software Engineering Intern | Multiple | [link](https://careers.salesforce.com/en/jobs/jr293195/summer-2026-intern-software-engineer/) | 2025-05-19 |
