@@ -1,5 +1,5 @@
 # 2026-Summer-Internships
-Tech Internships for Summer 2026, submit using the issues tab, and I'll update later in the day
+**Tech Internships for Summer 2026. Submit using the issues tab under new issue, and I'll update later in the day.**
 | Company Name | Role | Location | Application Link | Date |
 | --- | --- | --- | --- | --- |
 | Salesforce | Software Engineering Intern | Multiple | [link](https://careers.salesforce.com/en/jobs/jr293195/summer-2026-intern-software-engineer/) | 2025-05-19 |
