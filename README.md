@@ -5,9 +5,9 @@ Welcome to the ultimate hub for Summer 2026 Tech Internship opportunities! My re
 
 A community-curated list of tech internships for Summer 2026. We aim to cover a wide range of roles, including:
 
-    Software Engineering 💻
-    Data Science & Analytics 📊
-    Quant Research and Developer Roles 💹
+    Software Engineering, Software Developer, and Test Internships 💻
+    Data Science, Data Analytics & Data Engineering Internships 📊
+    Quant Research, Quant Developer, and Quant Trader Internships💹
 
 📣 Important Update on Openings!
 
