@@ -5,6 +5,7 @@ Temporary repo while the new one comes up
 | Company Name | Role | Location | Application Link | Date |
 | --- | --- | --- | --- | --- |
 | Stoke Aerospace | Software Engineering Intern | Multiple | [link](https://www.stokespace.com/careers/current-openings/?gh_jid=5500675004) | 2025-05-22 |
+| Bain | Tech Ops | New York, NY | [link](https://baincapital.wd1.myworkdayjobs.com/External_Public/job/Boston/XMLNAME-2026-Analyst--Tech-Opps_REQ_107847) | 2025-05-22 |
 | Salesforce | Software Engineering Intern | Multiple | [link](https://careers.salesforce.com/en/jobs/jr293195/summer-2026-intern-software-engineer/) | 2025-05-19 |
 | Aquatic | Quant Developer | Chicago | [link](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/7990895002) | 2025-05-18 |
 | Cubist | Quant Developer | New York, NY | [link](https://job-boards.greenhouse.io/point72/jobs/7297613002?gh_jid=7297613002&jobCode=CSS-0012293&location=null) | 2025-05-16 |
