@@ -2,8 +2,12 @@
 
 Temporary repo while the new one comes up
 
-| Company Name | Role | Location | Application Link | Date |
+| ﻿Company Name | Role | Location | Application Link | Date |
 | --- | --- | --- | --- | --- |
+| SGH | Technology Intern | Washington, DC | [link](https://www.sgh.com/careers/job-openings/view-job/?gh_jid=7835075002) | 2025-05-24 |
+| Proviti | Technology Intern | New York, NY | [link](https://roberthalf.wd1.myworkdayjobs.com/ProtivitiNA/job/NEW-YORK-CITY/New-York-City-Digital-Intern---2026_JR-254945?source=LinkedIn) | 2025-05-24 |
+| BNP Parbias | Summer Analyst - IT  | Jersey City, NJ | [link](https://group.bnpparibas/en/careers/job-offer/2026-summer-analyst-internship-technology?src=LinkedIn) | 2025-05-24 |
+| Citi Bank | Quantitative Analyst | New York, NY | [link](https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Markets---Quantitative-Analysis--Summer-Analyst---New-York-City---US--2026_25834002/apply?utm_campaign=nam_experienced&utm_medium=job_posting&utm_content=social_media&utm_source=linkedin.com&utm_term=393702677&source=APPLICANT_SOURCE-3-354&ss=paid) | 2025-05-24 |
 | Stoke Aerospace | Software Engineering Intern | Multiple | [link](https://www.stokespace.com/careers/current-openings/?gh_jid=5500675004) | 2025-05-22 |
 | Bain | Tech Ops | New York, NY | [link](https://baincapital.wd1.myworkdayjobs.com/External_Public/job/Boston/XMLNAME-2026-Analyst--Tech-Opps_REQ_107847) | 2025-05-22 |
 | Salesforce | Software Engineering Intern | Multiple | [link](https://careers.salesforce.com/en/jobs/jr293195/summer-2026-intern-software-engineer/) | 2025-05-19 |
