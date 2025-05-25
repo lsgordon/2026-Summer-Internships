@@ -4,6 +4,7 @@ Temporary repo while the new one comes up
 
 | ﻿Company Name | Role | Location | Application Link | Date |
 | --- | --- | --- | --- | --- |
+| Lockheed Martin | Cyber Software Engineering Intern | Multiple | [link](https://www.lockheedmartinjobs.com/job/herndon/cyber-software-engineering-intern-summer-2026/694/81556994800) | 2025-05-25 |
 | SGH | Technology Intern | Washington, DC | [link](https://www.sgh.com/careers/job-openings/view-job/?gh_jid=7835075002) | 2025-05-24 |
 | Proviti | Technology Intern | New York, NY | [link](https://roberthalf.wd1.myworkdayjobs.com/ProtivitiNA/job/NEW-YORK-CITY/New-York-City-Digital-Intern---2026_JR-254945?source=LinkedIn) | 2025-05-24 |
 | BNP Parbias | Summer Analyst - IT  | Jersey City, NJ | [link](https://group.bnpparibas/en/careers/job-offer/2026-summer-analyst-internship-technology?src=LinkedIn) | 2025-05-24 |
