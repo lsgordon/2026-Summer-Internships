@@ -1,6 +1,6 @@
 ## 🚀 Summer 2026 Tech Internships 🧑‍💻
 
-Temporary repo while the new one comes up
+Defunct. Please check [Vansh's repo](https://www.lockheedmartinjobs.com/job/herndon/cyber-software-engineering-intern-summer-2026/694/81556994800) for the most up to date internships. This repo will update automatically
 
 | ﻿Company Name | Role | Location | Application Link | Date |
 | --- | --- | --- | --- | --- |
